@@ -1,0 +1,8 @@
+._trough{
+    text-decoration: line-through;
+    text-decoration-color: #ffc107;
+}
+
+._hover:hover{
+cursor: pointer;
+}

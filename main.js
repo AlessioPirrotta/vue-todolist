@@ -34,6 +34,10 @@ const { createApp } = Vue
             text: "giocare col cane",
             done: false
           },
+          {
+            text: "pranzare con pippo",
+            done: false
+          },
 
         ]
       }
